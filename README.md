@@ -8,5 +8,7 @@ and then
 
 NOTE:- Required root acccess to run this application
 
+Download android client from url https://github.com/Nirmit789/AndroidClient
+
 
  
